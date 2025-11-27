@@ -1,1 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cosmetics Store - Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+    <h2>Cosmetic Shop</h2>
+    <div>
+        <a href="index.html">Home</a>
+        <a href="products.html">Products</a>
+        <a href="about.html">About</a>
+        <a href="payment.html">Payment</a>
+    </div>
+</nav>
+
+<section class="hero">
+    <h1>Glow With Beauty</h1>
+    <p>Find the best cosmetics for your daily routine.</p>
+    <a href="products.html"><button>Shop Now</button></a>
+</section>
+
+<footer>
+    © 2025 Cosmetic Shop. All Rights Reserved.
+</footer>
+
+</body>
+</html>
 
